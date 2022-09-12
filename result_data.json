@@ -1,0 +1,1 @@
+{"count_vacancies": 40, "count_None_salary": 23, "RUR_salary": 176000.0, "USD_salary": 4300.0, "requirements": [{"name": "postgresql", "count": 22, "percent": 55.0}, {"name": "git", "count": 20, "percent": 50.0}, {"name": "kafka", "count": 20, "percent": 50.0}, {"name": "java", "count": 20, "percent": 50.0}, {"name": "python", "count": 17, "percent": 42.5}]}
